@@ -1,0 +1,39 @@
+{
+    "name": "Chattanooga",
+    "description": "The Open Chattanooga Brigade empowers citizens with City data to tell stories, solve problems, and better interact with their government. A local chapter of the Code for America Brigade since 2012, our Brigade is seeking creative thinkers, neighborhood advocates, data nerds, designers, developers, and entrepreneurs to help develop meaningful solutions to local issues. The Brigade is the citizen arm of Open Chattanooga and needs the passion and skills to make the Collaborative's efforts meaningful.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/open-chattanooga.png",
+    "tags": [
+        "api provider",
+        "city government",
+        "data provider",
+        "have api",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/chattanooga\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Chattanooga",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/open-chattanooga.png",
+            "humanURL": "http:\/\/openchattanooga.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/chattanooga-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/openchattanooga.com\/"
+        }
+    ]
+}
